@@ -17,7 +17,7 @@ if ($TERM =~ '256' || &t_Co >= 256) || has("gui_running")
 
     set background=dark
 
-    hi NonText ctermbg=NONE ctermfg=243 cterm=NONE guibg=NONE guifg=#98a1cc gui=NONE
+    hi NonText ctermbg=NONE ctermfg=241 cterm=NONE guibg=NONE guifg=#606580 gui=NONE
     hi Comment ctermbg=NONE ctermfg=241 cterm=NONE guibg=NONE guifg=#606580 gui=NONE
     hi Conceal ctermbg=NONE ctermfg=241 cterm=NONE guibg=NONE guifg=#606580 gui=NONE
     hi Constant ctermbg=NONE ctermfg=140 cterm=NONE guibg=NONE guifg=#bd93f9 gui=NONE
